@@ -8,7 +8,7 @@ public class Saludo {
 		
 		String nombre = "Javi Bonano";
 		
-
+		System.out.print(nombre);
 
 	}
 
