@@ -4,6 +4,7 @@ public class Saludo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.print("Hola amigo, un saludo desde GIT con FJBR");
 
 	}
 
